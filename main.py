@@ -115,3 +115,4 @@ def game():
 
 
 game()
+# TODO wrap redundant code, def compare scores
